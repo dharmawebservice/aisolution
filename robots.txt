@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
-<<<<<<< HEAD
+ 
 
 Sitemap: https://aisolutionservicesltd.com/sitemap.xml
-=======
->>>>>>> 7d9d15e294a7a55d8804b1ed4bf8d1badfd4d69c
+ 
+ 
